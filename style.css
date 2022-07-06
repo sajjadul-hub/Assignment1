@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    padding-top: 5%;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px;
+}
+
+.banner-contenier {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: aliceblue;
+}
+
+.title {
+    font-size: 35px;
+    font-weight: 100px;
+    font-family: 'oxygen', sans-serif;
+}
+
+.anochor {
+    border: 0px;
+    margin-top: 2%;
+    margin-bottom: 10%;
+    padding: 10px;
+    background: rgb(0, 255, 21);
+    color: white;
+
+}
+
+#link-blank {
+    text-decoration: none;
+}
+
+.nd-button {
+    border: 0px;
+    padding: 10px;
+    background: rgb(180, 34, 34);
+    color: white;
+}
+
+.Dontate-contenier {
+    margin-top: 8%;
+    text-align: center;
+    font-family: 'oxygen', sans-serif;
+}
+
+.donation {
+    display: flex;
+}
+
+id {
+    color: #000;
+}
+
+.donation-project {
+    background-color: rgb(224, 11, 11);
+    margin: 5px;
+    padding: 7px;
+    margin-top: auto;
+    padding-top: 20px;
+
+}
+
+.button-two {
+    text-decoration: none;
+}
+
+.div-it {
+    display: flex;
+    justify-content: center;
+}
+
+.Div-taka {
+    margin-left: 5px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    color: gray;
+    background-color: rgb(234, 228, 228);
+
+}
+
+#jk {
+    border: 2px solid red;
+    background: rgb(209, 134, 134);
+}
